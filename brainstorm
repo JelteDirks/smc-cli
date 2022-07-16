@@ -1,0 +1,13 @@
+CLI that continuously displays the statistics that are requested by the user.
+Something like top, but for smc keys.
+
+
+
+
+smc-utils temp
+smc-utils battery
+smc-utils core power
+smc-utils gpu power
+smc-utils core temp
+smc-utils gpu temp
+smc-utils temp battery
